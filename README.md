@@ -20,14 +20,14 @@ Calculator · Expense Tracking · Bill Splitting · Currency Conversion · Float
 ### 🎵 Mega Shinnosuke Website
 **HTML · CSS · JavaScript**
 
-[Live Demo](YOUR_EXISTING_DEMO_URL)
+[Live Demo](https://github.com/FOOL1139/megashinnosuke-site)
 
 ---
 
 ### 🎬 Blade Runner 2049 Website
 **HTML · CSS**
 
-[Live Demo](YOUR_EXISTING_DEMO_URL)
+[Live Demo](https://github.com/FOOL1139/blade-runner-site)
 
 ---
 
