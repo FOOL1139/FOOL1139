@@ -5,9 +5,14 @@
 
 ### Software Developer | Android · Web · Backend
 
-**Building useful applications with thoughtful design.**
+Building practical applications with thoughtful design.
 
 📍 Tokyo, Japan
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 </div>
 
@@ -15,25 +20,24 @@
 
 ## 👨‍💻 About Me
 
-I'm a software developer based in Tokyo, currently studying Information Processing at **HAL Tokyo**.
+Software developer based in Tokyo, currently studying Information Processing at HAL Tokyo.
 
-With approximately five years of experience in film and media production project management, I bring a combination of technical development skills, problem-solving abilities, and cross-functional collaboration experience.
+With approximately five years of experience in film and media project management, I bring a combination of technical skills, problem-solving abilities, and cross-functional collaboration.
 
-- 🎓 HAL Tokyo — Information Processing (2025–2027)
-- 💻 Focus: Android, Web & Backend Development
-- 🌱 Learning: Kotlin, Java, Python, SQL & Cloud
-- 🌏 Languages: Chinese / Japanese / English
+- 🎓 HAL Tokyo | Information Processing (2025–2027)
+- 💻 Android / Web / Backend Development
+- 🌏 Chinese / Japanese / English
 - 🎯 Interested in Software Engineering & DX
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+**Languages**
 
 ![Languages](https://skillicons.dev/icons?i=kotlin,java,python,js,html,css)
 
-### Development Tools
+**Tools & Technologies**
 
 ![Tools](https://skillicons.dev/icons?i=androidstudio,mysql,git,github,linux,vscode)
 
@@ -41,11 +45,11 @@ With approximately five years of experience in film and media production project
 
 ## 🏆 Achievements
 
-### 🥉 Bronze Award — Android Calculator App Competition
+### 🥉 Android Calculator App Competition — Bronze Award
 
 **HAL Tokyo | Android電卓アプリ学内コンペ 銅賞**
 
-Developed **PITA**, a multifunctional Android calculator application recognized in an internal school competition.
+Awarded for developing PITA, a multifunctional Android calculator application.
 
 ---
 
@@ -53,36 +57,41 @@ Developed **PITA**, a multifunctional Android calculator application recognized 
 
 ### 🧮 PITA — Multifunctional Calculator
 
-**Android / Kotlin / Gradle**
+**Android · Kotlin · Gradle**
 
-An award-winning Android application that combines calculation tools with everyday financial utilities.
+🏆 Bronze Award — HAL Tokyo Android Calculator App Competition
 
-**Features:**
-- Arithmetic calculations and step-by-step explanations
+A multifunctional Android calculator designed for everyday use.
+
+- Step-by-step calculation explanations
 - Calculation history
-- Personal expense tracking
+- Expense tracking
 - Bill splitting
-- Offline currency conversion
-- Floating calculator overlay
-- Light and dark themes
+- Currency conversion
+- Floating calculator
+- Light / Dark Mode
 
-[View PITA Repository](https://github.com/FOOL1139/PITA)
+📂 [Source Code](https://github.com/FOOL1139/PITA)
 
 ---
 
 ### 🎵 Mega Shinnosuke Website
 
-**HTML / CSS / JavaScript**
+**HTML · CSS · JavaScript**
 
-Artist-themed website focusing on frontend development and visual design.
+An artist-themed website focusing on responsive frontend design and interactive experiences.
+
+🌐 [Live Demo](REPLACE_WITH_MEGA_DEMO_URL)
 
 ---
 
 ### 🎬 Blade Runner 2049 Website
 
-**HTML / CSS**
+**HTML · CSS**
 
-A cinematic fan website featuring immersive layouts and visual presentation.
+A cinematic fan website inspired by Blade Runner 2049.
+
+🌐 [Live Demo](REPLACE_WITH_BLADE_RUNNER_DEMO_URL)
 
 ---
 
@@ -100,11 +109,9 @@ A cinematic fan website featuring immersive layouts and visual presentation.
 
 ## 🤝 Let's Connect
 
-I'm interested in building reliable and user-friendly software, learning new technologies, and collaborating on meaningful projects.
+Open to software development opportunities and technical collaboration.
 
-**Open to software engineering opportunities.**
-
-[GitHub Profile](https://github.com/FOOL1139)
+[GitHub](https://github.com/FOOL1139)
 
 ---
 
