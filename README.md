@@ -20,7 +20,7 @@ Calculator · Expense Tracking · Bill Splitting · Currency Conversion · Float
 ### 🎵 Mega Shinnosuke Website
 **HTML · CSS · JavaScript**
 
-[Live Demo]([https://github.com/FOOL1139/megashinnosuke-site](https://fool1139.github.io/megashinnosuke-site/))
+[Live Demo](https://fool1139.github.io/megashinnosuke-site/)
 
 ---
 
