@@ -1,37 +1,117 @@
+
+<div align="center">
+
 # Hi, I'm FOOL1139 👋
 
-HAL東京 情報処理学科 在学中｜フロントエンド開発を目指しています
+### Software Developer | Android · Web · Backend
+
+**Building useful applications with thoughtful design.**
+
+📍 Tokyo, Japan
+
+</div>
 
 ---
 
-## 🛠 Skills
+## 👨‍💻 About Me
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+I'm a software developer based in Tokyo, currently studying Information Processing at **HAL Tokyo**.
 
----
+With approximately five years of experience in film and media production project management, I bring a combination of technical development skills, problem-solving abilities, and cross-functional collaboration experience.
 
-## 📂 Works
-
-| プロジェクト | 説明 | デモ |
-|---|---|---|
-| Mega Shinnosuke Site | アーティスト公式風サイト（HTML/CSS/JS） | [見る](https://fool1139.github.io/megashinnosuke-site/) |
-| Blade Runner 2049 Site | 映画ファンサイト（HTML/CSS） | [見る](https://fool1139.github.io/blade-runner-site/) |
+- 🎓 HAL Tokyo — Information Processing (2025–2027)
+- 💻 Focus: Android, Web & Backend Development
+- 🌱 Learning: Kotlin, Java, Python, SQL & Cloud
+- 🌏 Languages: Chinese / Japanese / English
+- 🎯 Interested in Software Engineering & DX
 
 ---
 
-## 🌏 About
+## 🛠 Tech Stack
 
-- 🏫 HAL東京 情報処理学科（2025–2027）
-- 💼 前職：Web制作・映像制作（約5年）
-- 🌐 中国語（母語）・日本語 ビジネスレベル・英語 ビジネスレベル
-- 📍 東京都在住
-- 🔍 フロントエンド開発 / 中日バイリンガルIT職 を志望
+### Languages
+
+![Languages](https://skillicons.dev/icons?i=kotlin,java,python,js,html,css)
+
+### Development Tools
+
+![Tools](https://skillicons.dev/icons?i=androidstudio,mysql,git,github,linux,vscode)
 
 ---
 
-<sub>© 2025 FOOL1139</sub>
+## 🏆 Achievements
+
+### 🥉 Bronze Award — Android Calculator App Competition
+
+**HAL Tokyo | Android電卓アプリ学内コンペ 銅賞**
+
+Developed **PITA**, a multifunctional Android calculator application recognized in an internal school competition.
+
+---
+
+## 🚀 Featured Projects
+
+### 🧮 PITA — Multifunctional Calculator
+
+**Android / Kotlin / Gradle**
+
+An award-winning Android application that combines calculation tools with everyday financial utilities.
+
+**Features:**
+- Arithmetic calculations and step-by-step explanations
+- Calculation history
+- Personal expense tracking
+- Bill splitting
+- Offline currency conversion
+- Floating calculator overlay
+- Light and dark themes
+
+[View PITA Repository](https://github.com/FOOL1139/PITA)
+
+---
+
+### 🎵 Mega Shinnosuke Website
+
+**HTML / CSS / JavaScript**
+
+Artist-themed website focusing on frontend development and visual design.
+
+---
+
+### 🎬 Blade Runner 2049 Website
+
+**HTML / CSS**
+
+A cinematic fan website featuring immersive layouts and visual presentation.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FOOL1139&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FOOL1139&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in building reliable and user-friendly software, learning new technologies, and collaborating on meaningful projects.
+
+**Open to software engineering opportunities.**
+
+[GitHub Profile](https://github.com/FOOL1139)
+
+---
+
+<div align="center">
+
+*From creative production to software engineering.*
+
+</div>
+
+<sub>© 2026 FOOL1139</sub>
